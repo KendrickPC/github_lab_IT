@@ -1,2 +1,3 @@
 # github_lab_IT
-This is a lab project for Google's IT Course
+I am editing the README file. Adding some more details about the project description.
+
